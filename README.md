@@ -2,9 +2,9 @@ Hello! Welcome to the repository for the StandUp project.
 
 To test the artefact, please make sure you download:
 
-StandUp.ipynb 
-StandUp_Dataset_Final.csv
-StandUp_Embeddings_Final.parquet
+- StandUp.ipynb 
+- StandUp_Dataset_Final.csv
+- StandUp_Embeddings_Final.parquet
 
 The other files are supplementary:
 
